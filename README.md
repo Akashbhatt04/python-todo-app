@@ -1,2 +1,2 @@
-# Awesome TODO App by User One
-# Awesome TODO App by User Two
+# TODO App by User One
+# TODO App by User Two
